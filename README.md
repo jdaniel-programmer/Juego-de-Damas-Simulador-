@@ -10,7 +10,7 @@ Este proyecto es una aplicación de escritorio que simula el popular juego de me
 ## Características principales
 
 * **Tablero interactivo de 8x8:** representación completa de casillas jugables y disposición inicial de fichas.
-* **Modos de juego:** partida Jugador vs. Jugador (2 jugadores) *(o Jugador vs. IA, según hayas implementado)*.
+* **Modos de juego:** partida Jugador vs. Jugador, Jugador vs. Maquina, MAquina vs. Maquina*.
 * **Validación de movimientos reglamentarios:** desplazamientos en diagonal, restricciones de turno y verificación de casillas disponibles.
 * **Sistema de capturas:** saltos simples y capturas múltiples encadenadas.
 * **Coronación de Damas (Reinas):** promoción automática al alcanzar la fila opuesta del tablero.
