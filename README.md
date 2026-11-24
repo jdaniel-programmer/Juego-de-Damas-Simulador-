@@ -4,8 +4,8 @@ Este proyecto es una aplicación de escritorio que simula el popular juego de me
 
 ## Créditos
 
-* Desarrollado por Jhonatan Rodríguez *(agrega aquí a tus compañeros de equipo si los hay)*.
-* Proyecto académico para la materia *(coloca aquí el nombre de la materia)*.
+* Desarrollado por Jhonatan Rodríguez y Angel Vargas.
+* Proyecto académico para la materia: Estructuras de datos.
 
 ## Características principales
 
