@@ -1,6 +1,6 @@
 # Damas - Juego de Mesa (Simulador)
 
-Este proyecto es una aplicación de escritorio que simula el popular juego de mesa conocido como Damas. La lógica del programa está desarrollada en C++ estándar, completamente separada de la interfaz de usuario, permitiendo validar reglas, movimientos, capturas y condiciones de victoria de forma estructurada.
+Este proyecto es una aplicación de escritorio que simula el popular juego de mesa conocido como Damas. La lógica del programa está desarrollada en C++ estándar, en el entorno Visual Studio Code,con el fin de permitir, validar reglas, movimientos, capturas y condiciones de victoria de forma estructurada.
 
 ## Créditos
 
